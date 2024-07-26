@@ -1,6 +1,6 @@
 /**
-* @file		beep.c
-* @brief	RC522指纹识别模块
+* @file		at24cxx.c
+* @brief	AT24CXX芯片驱动程序
 * @version  1.0
 * @author   Ethan
 * @date     2024.7.13
